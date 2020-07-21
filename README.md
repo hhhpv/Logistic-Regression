@@ -6,3 +6,5 @@ A simple logistic regression from scratch on the skin segmentation data set.
 ## Tasks List:
 - [x] Implement the Logistic regression from scratch.
 - [ ] Normalizing the data and improving the accuracy.
+- [ ] Formatting the notebook.
+- [ ] Comments
